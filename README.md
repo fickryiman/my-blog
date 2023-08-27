@@ -1,0 +1,1 @@
+This is my blog created using [Next.js](https://nextjs.org).
